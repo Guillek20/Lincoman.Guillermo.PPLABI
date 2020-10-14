@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1602683910 source:c:\users\compumar\desktop\parcial1_guillermo_lincoman\parcial1_guillermo_lincoman\harcodeo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"harcodeo.h"
+	"dataStoreMotos.h"
+
+1602676904 c:\users\compumar\desktop\parcial1_guillermo_lincoman\parcial1_guillermo_lincoman\harcodeo.h
+
+1602683924 c:\users\compumar\desktop\parcial1_guillermo_lincoman\parcial1_guillermo_lincoman\datastoremotos.h
+
+1602686902 source:c:\users\compumar\desktop\parcial1_guillermo_lincoman\parcial1_guillermo_lincoman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"moto.h"
+	"harcodeo.h"
+
+1602687113 c:\users\compumar\desktop\parcial1_guillermo_lincoman\parcial1_guillermo_lincoman\moto.h
+	"harcodeo.h"
+
+1602686763 source:c:\users\compumar\desktop\parcial1_guillermo_lincoman\parcial1_guillermo_lincoman\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"moto.h"
+
